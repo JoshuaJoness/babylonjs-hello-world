@@ -1,0 +1,23 @@
+{
+  "name": "babylonjs-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaJoness/babylonjs-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaJoness/babylonjs-hello-world/issues"
+  },
+  "homepage": "https://github.com/JoshuaJoness/babylonjs-hello-world#readme",
+  "devDependencies": {
+    "@babylonjs/core": "^4.2.0",
+    "@babylonjs/inspector": "^4.2.0"
+  }
+}
